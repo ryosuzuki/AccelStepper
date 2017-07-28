@@ -1,8 +1,6 @@
 AccelStepper/Makefile
 AccelStepper/AccelStepper.h
 AccelStepper/AccelStepper.cpp
-AccelStepper/MultiStepper.h
-AccelStepper/MultiStepper.cpp
 AccelStepper/MANIFEST
 AccelStepper/LICENSE
 AccelStepper/project.cfg
